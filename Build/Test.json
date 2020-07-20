@@ -1,0 +1,17 @@
+{
+"companyName": "Kings Unity",
+"productName": "Kings Halloween",
+"productVersion": "0.2",
+"dataUrl": "Test.data.unityweb",
+"wasmCodeUrl": "Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "Test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Test.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.4f1"
+}
